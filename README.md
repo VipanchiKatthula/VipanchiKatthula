@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-
-**VipanchiKatthula/VipanchiKatthula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on NLP and research projects on COVID-19 using Twitter data from US Hospitals.
 - 🌱 I’m currently learning advanced Deep learning concepts to enhance my analytical skills.
 - 👯 I’m looking to collaborate on Deep Learning projects that can help 
